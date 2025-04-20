@@ -15,6 +15,7 @@
 - 🌱 Working on projects related to **Stock Market Prediction, Web Scraping & EDA**
 -  💡 Passionate about **AI, Finance, and Brand Creation**
 - 📫 Reach me at: **riishabh12@gmail.com**
+- 🏋️ Fun fact: I can hold a plank for over **8 minutes**!
 
 ---
 
