@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- GitHub Profile README.md Template -->
 
 <h1 align="center">Hi 👋, I'm Rishabh Yadav </h1>
@@ -37,7 +36,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishabhYadav1202show_icons=true&theme=tokyonight" alt="RishabhYadav1202" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabhYadav1202&show_icons=true&theme=tokyonight" alt="RishabhYadav1202" />
 </p>
 
 <p align="center">
@@ -51,7 +50,7 @@
 ---
 
 
-⭐️ From [Your Name](https://github.com/RishabhYadav1202)
+⭐️ From [Rishabh Yadav](https://github.com/RishabhYadav1202)
 
 
 <!--
